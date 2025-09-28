@@ -34,3 +34,5 @@ bf11ebc65380a3487b2704a312e8a2c4 fancyss_qca_full_3.3.6.tar.gz
 c136f625c80d60215aba0aec11d433c1 fancyss_qca_lite_3.3.6.tar.gz
 297ecba09239e635e59e3cfcaa16f755 fancyss_qca_full_3.3.7.tar.gz
 765d653deb8da6c8194cb4e40be96c8f fancyss_qca_lite_3.3.7.tar.gz
+e398990bb2390c37f03a8e84cd69a278 fancyss_qca_full_3.3.8.tar.gz
+b312dbf797284e82344a96d185cb7cb9 fancyss_qca_lite_3.3.8.tar.gz
